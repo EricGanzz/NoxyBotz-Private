@@ -1,0 +1,8 @@
+#module
+node_modules
+config.js
+**.mp3
+**.opus
+**.mp4
+**.webp
+**.exif
