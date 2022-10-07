@@ -33,7 +33,7 @@ class config {
 	static email = 'noxybotz13@gmail.com'
 	static instagram = 'https://instagram.com/ricxyz13'
 	static prefixs = "multi"; //set ., #, and etc if you want single prefix example: const prefixs = '.'
-	static session = "noxy"; //default empty
+	static session = "session"; //default empty
 	static ownername = "E r i c D e v ?";
 	static self = false;
 	static packInfo = { packname: "@EicDev", author: "NoxyBotz-MD" };
