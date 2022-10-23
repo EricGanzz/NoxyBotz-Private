@@ -4,7 +4,7 @@
     "description": "gabut",
     "main": "./index.js",
     "scripts": {
-        "start": "pm2 start main.js && pm2 logs"
+        "start": "node main.js"
     },
     "repository": {
         "type": "git",
